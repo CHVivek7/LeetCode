@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/CHVivek7/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/CHVivek7/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/CHVivek7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/CHVivek7/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/CHVivek7/LeetCode/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/CHVivek7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/CHVivek7/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/CHVivek7/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/CHVivek7/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/CHVivek7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sliding Window
 |  |
 | ------- |
