@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/CHVivek7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/CHVivek7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/CHVivek7/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/CHVivek7/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
