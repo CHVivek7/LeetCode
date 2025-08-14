@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/CHVivek7/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/CHVivek7/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/CHVivek7/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/CHVivek7/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CHVivek7/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/CHVivek7/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/CHVivek7/LeetCode/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -138,4 +140,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/CHVivek7/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/CHVivek7/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/CHVivek7/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
