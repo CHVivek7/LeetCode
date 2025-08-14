@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/CHVivek7/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/CHVivek7/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/CHVivek7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1086-divisor-game](https://github.com/CHVivek7/LeetCode/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/CHVivek7/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/CHVivek7/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/CHVivek7/LeetCode/tree/master/1086-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -456,4 +458,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CHVivek7/LeetCode/tree/master/0817-design-hashmap) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/CHVivek7/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/CHVivek7/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
