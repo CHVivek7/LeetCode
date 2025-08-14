@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1950-sign-of-the-product-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHVivek7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/CHVivek7/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/CHVivek7/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
