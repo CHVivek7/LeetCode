@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/CHVivek7/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CHVivek7/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/CHVivek7/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
