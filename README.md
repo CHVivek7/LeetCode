@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/CHVivek7/LeetCode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/CHVivek7/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/CHVivek7/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/CHVivek7/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/CHVivek7/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/CHVivek7/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
 ## Stack
 |  |
 | ------- |
@@ -394,8 +396,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/CHVivek7/LeetCode/tree/master/0456-132-pattern) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
