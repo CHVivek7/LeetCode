@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/CHVivek7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/CHVivek7/LeetCode/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/CHVivek7/LeetCode/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHVivek7/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/CHVivek7/LeetCode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
