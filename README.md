@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/CHVivek7/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/CHVivek7/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/CHVivek7/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/CHVivek7/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/CHVivek7/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/CHVivek7/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/CHVivek7/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
