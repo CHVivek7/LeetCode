@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CHVivek7/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/CHVivek7/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/CHVivek7/LeetCode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/CHVivek7/LeetCode/tree/master/0164-maximum-gap) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/CHVivek7/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/CHVivek7/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CHVivek7/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/CHVivek7/LeetCode/tree/master/0164-maximum-gap) |
 ## Stack
 |  |
 | ------- |
@@ -191,4 +193,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/CHVivek7/LeetCode/tree/master/0155-min-stack) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/CHVivek7/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/CHVivek7/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
