@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/CHVivek7/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/CHVivek7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/CHVivek7/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/CHVivek7/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/CHVivek7/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/CHVivek7/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/CHVivek7/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/CHVivek7/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
