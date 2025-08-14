@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/CHVivek7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/CHVivek7/LeetCode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/CHVivek7/LeetCode/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/CHVivek7/LeetCode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/CHVivek7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/CHVivek7/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
@@ -362,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/CHVivek7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/CHVivek7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/CHVivek7/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 ## Bucket Sort
 |  |
@@ -425,4 +429,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
