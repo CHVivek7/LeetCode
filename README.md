@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CHVivek7/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/CHVivek7/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/CHVivek7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/CHVivek7/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/CHVivek7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/CHVivek7/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
 | ------- |
