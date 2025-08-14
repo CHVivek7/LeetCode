@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/CHVivek7/LeetCode/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/CHVivek7/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/CHVivek7/LeetCode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/CHVivek7/LeetCode/tree/master/0520-detect-capital) |
 ## Sliding Window
 |  |
 | ------- |
