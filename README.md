@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/CHVivek7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/CHVivek7/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/CHVivek7/LeetCode/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/CHVivek7/LeetCode/tree/master/0482-license-key-formatting) |
 ## Sliding Window
 |  |
 | ------- |
