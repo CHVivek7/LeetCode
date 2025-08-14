@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/CHVivek7/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/CHVivek7/LeetCode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/CHVivek7/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/CHVivek7/LeetCode/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
