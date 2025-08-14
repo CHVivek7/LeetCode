@@ -13,12 +13,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/CHVivek7/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHVivek7/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CHVivek7/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/CHVivek7/LeetCode/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CHVivek7/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHVivek7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/CHVivek7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/CHVivek7/LeetCode/tree/master/0036-valid-sudoku) |
 ## Linked List
 |  |
 | ------- |
@@ -102,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/CHVivek7/LeetCode/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/CHVivek7/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
