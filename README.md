@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/CHVivek7/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/CHVivek7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/CHVivek7/LeetCode/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,8 +53,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CHVivek7/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/CHVivek7/LeetCode/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CHVivek7/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/CHVivek7/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
