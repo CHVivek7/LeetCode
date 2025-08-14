@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CHVivek7/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CHVivek7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHVivek7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/CHVivek7/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/CHVivek7/LeetCode/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/CHVivek7/LeetCode/tree/master/0682-baseball-game) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHVivek7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CHVivek7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/CHVivek7/LeetCode/tree/master/0456-132-pattern) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHVivek7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
