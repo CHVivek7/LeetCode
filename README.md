@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/CHVivek7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/CHVivek7/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -325,4 +326,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/CHVivek7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/CHVivek7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/CHVivek7/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
