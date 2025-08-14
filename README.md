@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/CHVivek7/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CHVivek7/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/CHVivek7/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1677-matrix-diagonal-sum](https://github.com/CHVivek7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/CHVivek7/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/CHVivek7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
