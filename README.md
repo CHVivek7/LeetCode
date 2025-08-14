@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/CHVivek7/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/CHVivek7/LeetCode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/CHVivek7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/CHVivek7/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Ordered Set
 |  |
 | ------- |
