@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/CHVivek7/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/CHVivek7/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/CHVivek7/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/CHVivek7/LeetCode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/CHVivek7/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/CHVivek7/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/CHVivek7/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/CHVivek7/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/CHVivek7/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/CHVivek7/LeetCode/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
