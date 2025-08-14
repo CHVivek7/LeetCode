@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/CHVivek7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/CHVivek7/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/CHVivek7/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/CHVivek7/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/CHVivek7/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CHVivek7/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/CHVivek7/LeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
