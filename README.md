@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CHVivek7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/CHVivek7/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/CHVivek7/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/CHVivek7/LeetCode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/CHVivek7/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/CHVivek7/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CHVivek7/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/CHVivek7/LeetCode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -235,4 +237,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/CHVivek7/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/CHVivek7/LeetCode/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/CHVivek7/LeetCode/tree/master/0197-rising-temperature) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/CHVivek7/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/CHVivek7/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
