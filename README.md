@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/CHVivek7/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CHVivek7/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CHVivek7/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/CHVivek7/LeetCode/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/CHVivek7/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/CHVivek7/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CHVivek7/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/CHVivek7/LeetCode/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
