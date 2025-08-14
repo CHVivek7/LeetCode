@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/CHVivek7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CHVivek7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CHVivek7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/CHVivek7/LeetCode/tree/master/0155-min-stack) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -181,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CHVivek7/LeetCode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/CHVivek7/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
