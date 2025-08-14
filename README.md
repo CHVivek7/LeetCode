@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/CHVivek7/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHVivek7/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHVivek7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/CHVivek7/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
