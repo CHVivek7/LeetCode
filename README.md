@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/CHVivek7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/CHVivek7/LeetCode/tree/master/0605-can-place-flowers) |
+| [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/CHVivek7/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/CHVivek7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/CHVivek7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/CHVivek7/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -392,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/CHVivek7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CHVivek7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 ## Prefix Sum
 |  |
 | ------- |
