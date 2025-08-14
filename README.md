@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/CHVivek7/LeetCode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/CHVivek7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/CHVivek7/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/CHVivek7/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/CHVivek7/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/CHVivek7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/CHVivek7/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/CHVivek7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Stack
 |  |
 | ------- |
@@ -438,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/CHVivek7/LeetCode/tree/master/0605-can-place-flowers) |
+| [1018-largest-perimeter-triangle](https://github.com/CHVivek7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Ordered Set
 |  |
 | ------- |
