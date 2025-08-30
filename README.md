@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3651-transformed-array](https://github.com/CHVivek7/LeetCode/tree/master/3651-transformed-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/CHVivek7/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3748-sort-matrix-by-diagonals](https://github.com/CHVivek7/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/CHVivek7/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/CHVivek7/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/CHVivek7/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/CHVivek7/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [3321-type-of-triangle](https://github.com/CHVivek7/LeetCode/tree/master/3321-type-of-triangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/CHVivek7/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/CHVivek7/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/CHVivek7/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Stack
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/CHVivek7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/CHVivek7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
+| [3748-sort-matrix-by-diagonals](https://github.com/CHVivek7/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Monotonic Stack
 |  |
 | ------- |
