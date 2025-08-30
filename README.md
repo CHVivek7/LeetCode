@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/CHVivek7/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/CHVivek7/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CHVivek7/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/CHVivek7/LeetCode/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/CHVivek7/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/CHVivek7/LeetCode/tree/master/3429-special-array-i) |
