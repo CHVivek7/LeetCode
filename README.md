@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/CHVivek7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/CHVivek7/LeetCode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CHVivek7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/CHVivek7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/CHVivek7/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/CHVivek7/LeetCode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/CHVivek7/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/CHVivek7/LeetCode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CHVivek7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/CHVivek7/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/CHVivek7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/CHVivek7/LeetCode/tree/master/1086-divisor-game) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/CHVivek7/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/CHVivek7/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CHVivek7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/CHVivek7/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/CHVivek7/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
