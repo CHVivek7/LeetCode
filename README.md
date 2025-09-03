@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/CHVivek7/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CHVivek7/LeetCode/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/CHVivek7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/CHVivek7/LeetCode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/CHVivek7/LeetCode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CHVivek7/LeetCode/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/CHVivek7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CHVivek7/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/CHVivek7/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/CHVivek7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/CHVivek7/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/CHVivek7/LeetCode/tree/master/0742-to-lower-case) |
+| [0822-unique-morse-code-words](https://github.com/CHVivek7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/CHVivek7/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
