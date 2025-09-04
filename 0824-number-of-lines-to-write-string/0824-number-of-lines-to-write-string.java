@@ -10,10 +10,7 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
             int idx = s.charAt(i) - 'a';
-            if (idx < 0 || idx >= nums.length) continue;
-
             int add = nums[idx];
-
             if (sum + add > maxPerLine) {
                 count++;
                 prev = sum;
@@ -23,10 +20,8 @@ class Solution {
             }
         }
 
-        if (s.length() > 0) {
-            prev = sum;
-        }
+        
 
-        return new int[] { count, prev };
+        return new int[] { count, sum };
     }
 }
