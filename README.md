@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CHVivek7/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/CHVivek7/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/CHVivek7/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/CHVivek7/LeetCode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/CHVivek7/LeetCode/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/CHVivek7/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/CHVivek7/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0824-number-of-lines-to-write-string](https://github.com/CHVivek7/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/CHVivek7/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
