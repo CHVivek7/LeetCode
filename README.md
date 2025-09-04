@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CHVivek7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CHVivek7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/CHVivek7/LeetCode/tree/master/2226-rings-and-rods) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/CHVivek7/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CHVivek7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/CHVivek7/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/CHVivek7/LeetCode/tree/master/2226-rings-and-rods) |
@@ -602,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/CHVivek7/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CHVivek7/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
