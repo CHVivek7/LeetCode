@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/CHVivek7/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/CHVivek7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CHVivek7/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/CHVivek7/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CHVivek7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CHVivek7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/CHVivek7/LeetCode/tree/master/2226-rings-and-rods) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/CHVivek7/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CHVivek7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/CHVivek7/LeetCode/tree/master/2226-rings-and-rods) |
 | [2232-adding-spaces-to-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/CHVivek7/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -594,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/CHVivek7/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CHVivek7/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
 |  |
