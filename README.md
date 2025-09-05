@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/CHVivek7/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CHVivek7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0749-shortest-completing-word](https://github.com/CHVivek7/LeetCode/tree/master/0749-shortest-completing-word) |
+| [0782-jewels-and-stones](https://github.com/CHVivek7/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CHVivek7/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/CHVivek7/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/CHVivek7/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/CHVivek7/LeetCode/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/CHVivek7/LeetCode/tree/master/0749-shortest-completing-word) |
+| [0782-jewels-and-stones](https://github.com/CHVivek7/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/CHVivek7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/CHVivek7/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1078-remove-outermost-parentheses](https://github.com/CHVivek7/LeetCode/tree/master/1078-remove-outermost-parentheses) |
