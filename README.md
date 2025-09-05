@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0851-goat-latin](https://github.com/CHVivek7/LeetCode/tree/master/0851-goat-latin) |
 | [0874-backspace-string-compare](https://github.com/CHVivek7/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CHVivek7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-long-pressed-name](https://github.com/CHVivek7/LeetCode/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/CHVivek7/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/CHVivek7/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/CHVivek7/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/CHVivek7/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0961-long-pressed-name](https://github.com/CHVivek7/LeetCode/tree/master/0961-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CHVivek7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CHVivek7/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
