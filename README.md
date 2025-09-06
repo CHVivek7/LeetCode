@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-smallest-range-i](https://github.com/CHVivek7/LeetCode/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/CHVivek7/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/CHVivek7/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/CHVivek7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CHVivek7/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/CHVivek7/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0822-unique-morse-code-words](https://github.com/CHVivek7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/CHVivek7/LeetCode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CHVivek7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/CHVivek7/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CHVivek7/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/CHVivek7/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
