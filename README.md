@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-binary-prefix-divisible-by-5](https://github.com/CHVivek7/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/CHVivek7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/CHVivek7/LeetCode/tree/master/1137-height-checker) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/CHVivek7/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CHVivek7/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1287-distance-between-bus-stops](https://github.com/CHVivek7/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/CHVivek7/LeetCode/tree/master/1293-three-consecutive-odds) |
