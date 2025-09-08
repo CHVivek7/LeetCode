@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-minimum-absolute-difference](https://github.com/CHVivek7/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/CHVivek7/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/CHVivek7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/CHVivek7/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CHVivek7/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/CHVivek7/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/CHVivek7/LeetCode/tree/master/1260-day-of-the-year) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/CHVivek7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/CHVivek7/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CHVivek7/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/CHVivek7/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/CHVivek7/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/CHVivek7/LeetCode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/CHVivek7/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/CHVivek7/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHVivek7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CHVivek7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
