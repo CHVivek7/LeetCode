@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/CHVivek7/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CHVivek7/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CHVivek7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHVivek7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CHVivek7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHVivek7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CHVivek7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CHVivek7/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1297-maximum-number-of-balloons](https://github.com/CHVivek7/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CHVivek7/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
