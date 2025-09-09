@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1205-defanging-an-ip-address](https://github.com/CHVivek7/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/CHVivek7/LeetCode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/CHVivek7/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
+| [1283-reformat-date](https://github.com/CHVivek7/LeetCode/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/CHVivek7/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CHVivek7/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
