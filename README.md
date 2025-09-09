@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1086-divisor-game](https://github.com/CHVivek7/LeetCode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/CHVivek7/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/CHVivek7/LeetCode/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/CHVivek7/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/CHVivek7/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/CHVivek7/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1156-occurrences-after-bigram](https://github.com/CHVivek7/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/CHVivek7/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/CHVivek7/LeetCode/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/CHVivek7/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/CHVivek7/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CHVivek7/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
