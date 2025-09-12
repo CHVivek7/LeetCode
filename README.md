@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2778-frequency-tracker](https://github.com/CHVivek7/LeetCode/tree/master/2778-frequency-tracker) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/CHVivek7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CHVivek7/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Linked List
 |  |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/CHVivek7/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/CHVivek7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/CHVivek7/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Sliding Window
 |  |
@@ -743,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/CHVivek7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CHVivek7/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Database
 |  |
