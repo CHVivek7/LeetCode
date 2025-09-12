@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3651-transformed-array](https://github.com/CHVivek7/LeetCode/tree/master/3651-transformed-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/CHVivek7/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CHVivek7/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CHVivek7/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/CHVivek7/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CHVivek7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/CHVivek7/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2778-frequency-tracker](https://github.com/CHVivek7/LeetCode/tree/master/2778-frequency-tracker) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CHVivek7/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CHVivek7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CHVivek7/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Linked List
@@ -816,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2154-minimum-moves-to-convert-string](https://github.com/CHVivek7/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/CHVivek7/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CHVivek7/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/CHVivek7/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/CHVivek7/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Ordered Set
