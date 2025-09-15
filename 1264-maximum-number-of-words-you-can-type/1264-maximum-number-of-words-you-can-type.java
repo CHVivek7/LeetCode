@@ -7,7 +7,8 @@ class Solution {
             for(int j = 0;j<brokenLetters.length();j++){
                 if(str[i].contains(brokenLetters.charAt(j)+"")){
                     contains = true;
-                    j = brokenLetters.length();
+                    //j = brokenLetters.length();
+                    break;
                 }
             }
             if(!contains){
