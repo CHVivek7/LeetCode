@@ -4,17 +4,15 @@ class Solution {
         boolean contains = false;
         String[] str = text.split(" ");
         for(int i = 0;i<str.length;i++){
-            for(int j = 0;j<brokenLetters.length();j++){
+            int j;
+            for(j = 0;j<brokenLetters.length();j++){
                 if(str[i].contains(brokenLetters.charAt(j)+"")){
-                    contains = true;
-                    //j = brokenLetters.length();
                     break;
                 }
             }
-            if(!contains){
+            if(j==brokenLetters.length()){
                 count++;
             }
-            contains = false;
         }
         return count;
     }
