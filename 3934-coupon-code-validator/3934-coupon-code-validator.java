@@ -11,9 +11,9 @@ class Solution {
                 if(str.length()>0){
                     continue;
                 }
-                if (!code[i].isEmpty() && map.containsKey(businessLine[i])) { // ✅ Add only non-empty codes
+                if (!code[i].isEmpty() && map.containsKey(businessLine[i])) { 
                     List<String> list = map.get(businessLine[i]);
-                    if (list != null) { // ✅ Avoid NullPointerException
+                    if (list != null) {
                         list.add(code[i]);
                     }
                     map.put(businessLine[i], list);
@@ -22,7 +22,6 @@ class Solution {
         }
         List<String> ans = new ArrayList<>();
         for (Map.Entry<String, List<String>> e : map.entrySet()) {
-            
             List<String> res = e.getValue();
             Collections.sort(res);
             for(String s : res){
