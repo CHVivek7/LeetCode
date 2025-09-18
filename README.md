@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3830-find-closest-person](https://github.com/CHVivek7/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CHVivek7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/CHVivek7/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/CHVivek7/LeetCode/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CHVivek7/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3811-reverse-degree-of-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CHVivek7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/CHVivek7/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/CHVivek7/LeetCode/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3934-coupon-code-validator](https://github.com/CHVivek7/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Sliding Window
 |  |
