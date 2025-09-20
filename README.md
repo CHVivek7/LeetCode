@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/CHVivek7/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CHVivek7/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CHVivek7/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/CHVivek7/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CHVivek7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/CHVivek7/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2778-frequency-tracker](https://github.com/CHVivek7/LeetCode/tree/master/2778-frequency-tracker) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CHVivek7/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CHVivek7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CHVivek7/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/CHVivek7/LeetCode/tree/master/3934-coupon-code-validator) |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/CHVivek7/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3427-special-array-ii](https://github.com/CHVivek7/LeetCode/tree/master/3427-special-array-ii) |
+| [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/CHVivek7/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/CHVivek7/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -751,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/CHVivek7/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 | [2778-frequency-tracker](https://github.com/CHVivek7/LeetCode/tree/master/2778-frequency-tracker) |
+| [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -820,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHVivek7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -853,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/CHVivek7/LeetCode/tree/master/0456-132-pattern) |
+| [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
 ## Counting Sort
 |  |
 | ------- |
