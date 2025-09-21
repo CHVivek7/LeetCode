@@ -25,9 +25,6 @@ class Solution {
                 ans.add(arr[i]);
             }
         }
-        
-        System.out.println("Max frequency: " + max);
-        System.out.println("Elements with max frequency: " + ans);
         if(max == 1){
             return 1;
         }
