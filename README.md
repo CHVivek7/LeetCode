@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/CHVivek7/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/CHVivek7/LeetCode/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CHVivek7/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3651-transformed-array](https://github.com/CHVivek7/LeetCode/tree/master/3651-transformed-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/CHVivek7/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CHVivek7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/CHVivek7/LeetCode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CHVivek7/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CHVivek7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/CHVivek7/LeetCode/tree/master/3830-find-closest-person) |
