@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/CHVivek7/LeetCode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/CHVivek7/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CHVivek7/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CHVivek7/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CHVivek7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/CHVivek7/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3567-convert-date-to-binary](https://github.com/CHVivek7/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/CHVivek7/LeetCode/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
