@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CHVivek7/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2714-left-and-right-sum-differences](https://github.com/CHVivek7/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/CHVivek7/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/CHVivek7/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -875,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CHVivek7/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1833-find-the-highest-altitude](https://github.com/CHVivek7/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CHVivek7/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2714-left-and-right-sum-differences](https://github.com/CHVivek7/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/CHVivek7/LeetCode/tree/master/3427-special-array-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CHVivek7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/CHVivek7/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
