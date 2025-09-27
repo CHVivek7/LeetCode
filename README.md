@@ -987,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/CHVivek7/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/CHVivek7/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/CHVivek7/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1009,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/CHVivek7/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/CHVivek7/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/CHVivek7/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1023,6 +1025,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/CHVivek7/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/CHVivek7/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/CHVivek7/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -1033,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/CHVivek7/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CHVivek7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1254-deepest-leaves-sum](https://github.com/CHVivek7/LeetCode/tree/master/1254-deepest-leaves-sum) |
 ## Combinatorics
 |  |
 | ------- |
