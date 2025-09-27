@@ -464,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/CHVivek7/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CHVivek7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/CHVivek7/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CHVivek7/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/CHVivek7/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -594,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CHVivek7/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/CHVivek7/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/CHVivek7/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/CHVivek7/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -692,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CHVivek7/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHVivek7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CHVivek7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/CHVivek7/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CHVivek7/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
