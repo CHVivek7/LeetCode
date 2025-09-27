@@ -1033,4 +1033,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/CHVivek7/LeetCode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
