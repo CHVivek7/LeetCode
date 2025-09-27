@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/CHVivek7/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/CHVivek7/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/CHVivek7/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CHVivek7/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/CHVivek7/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/CHVivek7/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/CHVivek7/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -775,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CHVivek7/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/CHVivek7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/CHVivek7/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/CHVivek7/LeetCode/tree/master/2645-pass-the-pillow) |
