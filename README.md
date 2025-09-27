@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/CHVivek7/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/CHVivek7/LeetCode/tree/master/1839-decode-xored-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/CHVivek7/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1944-truncate-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHVivek7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/CHVivek7/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1797-goal-parser-interpretation](https://github.com/CHVivek7/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/CHVivek7/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1944-truncate-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1944-truncate-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CHVivek7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/CHVivek7/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CHVivek7/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
