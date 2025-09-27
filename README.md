@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CHVivek7/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2383-add-two-integers](https://github.com/CHVivek7/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/CHVivek7/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/CHVivek7/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/CHVivek7/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/CHVivek7/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
@@ -868,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/CHVivek7/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/CHVivek7/LeetCode/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CHVivek7/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2491-smallest-even-multiple](https://github.com/CHVivek7/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
