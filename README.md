@@ -778,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/CHVivek7/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/CHVivek7/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1708-design-parking-system](https://github.com/CHVivek7/LeetCode/tree/master/1708-design-parking-system) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHVivek7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CHVivek7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/CHVivek7/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -812,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/CHVivek7/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CHVivek7/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
+| [1708-design-parking-system](https://github.com/CHVivek7/LeetCode/tree/master/1708-design-parking-system) |
 | [2778-frequency-tracker](https://github.com/CHVivek7/LeetCode/tree/master/2778-frequency-tracker) |
 | [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
 ## Bucket Sort
@@ -838,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/CHVivek7/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/CHVivek7/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/CHVivek7/LeetCode/tree/master/1708-design-parking-system) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
