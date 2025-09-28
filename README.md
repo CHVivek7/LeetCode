@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/CHVivek7/LeetCode/tree/master/2226-rings-and-rods) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2406-decode-the-message](https://github.com/CHVivek7/LeetCode/tree/master/2406-decode-the-message) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2778-frequency-tracker](https://github.com/CHVivek7/LeetCode/tree/master/2778-frequency-tracker) |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-capitalize-the-title](https://github.com/CHVivek7/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/CHVivek7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/CHVivek7/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2406-decode-the-message](https://github.com/CHVivek7/LeetCode/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CHVivek7/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/CHVivek7/LeetCode/tree/master/2727-number-of-senior-citizens) |
