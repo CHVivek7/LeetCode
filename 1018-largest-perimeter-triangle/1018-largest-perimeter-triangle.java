@@ -1,7 +1,12 @@
-import java.util.*;
+import java.util.Arrays;
 class Solution {
-    public int[] sortArray(int[] nums) {
+    public int largestPerimeter(int[] nums) {
         Arrays.sort(nums);
-        return nums;
+        for(int i = nums.length-1;i>1;i--){
+            if(nums[i]<nums[i-1]+nums[i-2]){
+                return nums[i]+nums[i-1]+nums[i-2];
+            }
+        }
+        return 0;
     }
 }
