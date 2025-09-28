@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CHVivek7/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CHVivek7/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/CHVivek7/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-smallest-even-multiple](https://github.com/CHVivek7/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/CHVivek7/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/CHVivek7/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/CHVivek7/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/CHVivek7/LeetCode/tree/master/2752-sum-multiples) |
