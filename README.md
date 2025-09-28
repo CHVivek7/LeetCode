@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/CHVivek7/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CHVivek7/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/CHVivek7/LeetCode/tree/master/3321-type-of-triangle) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/CHVivek7/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3427-special-array-ii](https://github.com/CHVivek7/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/CHVivek7/LeetCode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CHVivek7/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
