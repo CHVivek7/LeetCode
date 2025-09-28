@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/CHVivek7/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/CHVivek7/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/CHVivek7/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/CHVivek7/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CHVivek7/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/CHVivek7/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/CHVivek7/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/CHVivek7/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/CHVivek7/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Matrix
 |  |
 | ------- |
