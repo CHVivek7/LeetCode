@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/CHVivek7/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/CHVivek7/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/CHVivek7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/CHVivek7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/CHVivek7/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/CHVivek7/LeetCode/tree/master/1839-decode-xored-array) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1542-consecutive-characters](https://github.com/CHVivek7/LeetCode/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/CHVivek7/LeetCode/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/CHVivek7/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/CHVivek7/LeetCode/tree/master/1894-merge-strings-alternately) |
