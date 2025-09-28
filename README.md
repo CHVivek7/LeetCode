@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CHVivek7/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/CHVivek7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CHVivek7/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2502-sort-the-people](https://github.com/CHVivek7/LeetCode/tree/master/2502-sort-the-people) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/CHVivek7/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/CHVivek7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/CHVivek7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/CHVivek7/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2406-decode-the-message](https://github.com/CHVivek7/LeetCode/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -756,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/CHVivek7/LeetCode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/CHVivek7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
