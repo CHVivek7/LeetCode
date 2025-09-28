@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/CHVivek7/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CHVivek7/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/CHVivek7/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
@@ -672,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/CHVivek7/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/CHVivek7/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/CHVivek7/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/CHVivek7/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/CHVivek7/LeetCode/tree/master/3321-type-of-triangle) |
@@ -774,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/CHVivek7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/CHVivek7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/CHVivek7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/CHVivek7/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CHVivek7/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Monotonic Stack
