@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CHVivek7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CHVivek7/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2502-sort-the-people](https://github.com/CHVivek7/LeetCode/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/CHVivek7/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHVivek7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/CHVivek7/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CHVivek7/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/CHVivek7/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/CHVivek7/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/CHVivek7/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -850,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/CHVivek7/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/CHVivek7/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/CHVivek7/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/CHVivek7/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -1097,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Graph
 |  |
