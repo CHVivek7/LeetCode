@@ -516,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-capitalize-the-title](https://github.com/CHVivek7/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/CHVivek7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CHVivek7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/CHVivek7/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/CHVivek7/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2406-decode-the-message](https://github.com/CHVivek7/LeetCode/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
