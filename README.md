@@ -1080,6 +1080,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CHVivek7/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/CHVivek7/LeetCode/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -1110,6 +1111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CHVivek7/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/CHVivek7/LeetCode/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -1129,6 +1131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/CHVivek7/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CHVivek7/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Backtracking
 |  |
