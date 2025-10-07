@@ -1091,6 +1091,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/CHVivek7/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/CHVivek7/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1141,6 +1142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CHVivek7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/CHVivek7/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/CHVivek7/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1172,6 +1174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CHVivek7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/CHVivek7/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/CHVivek7/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/CHVivek7/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/CHVivek7/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
