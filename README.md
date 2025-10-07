@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/CHVivek7/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/CHVivek7/LeetCode/tree/master/0682-baseball-game) |
+| [0690-employee-importance](https://github.com/CHVivek7/LeetCode/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/CHVivek7/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CHVivek7/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/CHVivek7/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/CHVivek7/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CHVivek7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/CHVivek7/LeetCode/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/CHVivek7/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/CHVivek7/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -1087,6 +1089,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/CHVivek7/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CHVivek7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/CHVivek7/LeetCode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/CHVivek7/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/CHVivek7/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1175,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/CHVivek7/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CHVivek7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/CHVivek7/LeetCode/tree/master/0690-employee-importance) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/CHVivek7/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/CHVivek7/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -1203,6 +1207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CHVivek7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/CHVivek7/LeetCode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/CHVivek7/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/CHVivek7/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/CHVivek7/LeetCode/tree/master/1254-deepest-leaves-sum) |
