@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/CHVivek7/LeetCode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/CHVivek7/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CHVivek7/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/CHVivek7/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/CHVivek7/LeetCode/tree/master/3636-check-balanced-string) |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/CHVivek7/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/CHVivek7/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CHVivek7/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Matrix
 |  |
@@ -1226,6 +1228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/CHVivek7/LeetCode/tree/master/0257-binary-tree-paths) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CHVivek7/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
 |  |
 | ------- |
