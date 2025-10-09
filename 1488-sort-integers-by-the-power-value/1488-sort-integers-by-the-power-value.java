@@ -16,7 +16,6 @@ class Solution {
                 return a.getKey().compareTo(b.getKey());
             }
         });
-        System.out.println(map);
         if (k >= 1 && k <= entries.size()) {
             return entries.get(k - 1).getKey();
         }
