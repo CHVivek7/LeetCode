@@ -700,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/CHVivek7/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/CHVivek7/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/CHVivek7/LeetCode/tree/master/1086-divisor-game) |
+| [1488-sort-integers-by-the-power-value](https://github.com/CHVivek7/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1511-count-number-of-teams](https://github.com/CHVivek7/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Sorting
 |  |
@@ -736,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/CHVivek7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHVivek7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1488-sort-integers-by-the-power-value](https://github.com/CHVivek7/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CHVivek7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/CHVivek7/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -927,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/CHVivek7/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/CHVivek7/LeetCode/tree/master/1013-fibonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/CHVivek7/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 ## Design
 |  |
 | ------- |
