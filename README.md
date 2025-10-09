@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/CHVivek7/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CHVivek7/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CHVivek7/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CHVivek7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -598,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/CHVivek7/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/CHVivek7/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CHVivek7/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CHVivek7/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CHVivek7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
