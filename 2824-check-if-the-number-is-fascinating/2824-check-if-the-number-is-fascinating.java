@@ -7,10 +7,7 @@ class Solution {
         int i = 1;
         while(i<10){
             if(str.contains(i+"")){
-                str = str.replaceAll(i+"","");
-                if(str.equals("") && i<9){
-                    return false;
-                }
+                
                 i++;
             }
             else{
