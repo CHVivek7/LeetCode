@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CHVivek7/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/CHVivek7/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2476-check-distances-between-same-letters](https://github.com/CHVivek7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/CHVivek7/LeetCode/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/CHVivek7/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2226-rings-and-rods](https://github.com/CHVivek7/LeetCode/tree/master/2226-rings-and-rods) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2406-decode-the-message](https://github.com/CHVivek7/LeetCode/tree/master/2406-decode-the-message) |
+| [2476-check-distances-between-same-letters](https://github.com/CHVivek7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/CHVivek7/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CHVivek7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -568,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/CHVivek7/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2406-decode-the-message](https://github.com/CHVivek7/LeetCode/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2476-check-distances-between-same-letters](https://github.com/CHVivek7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/CHVivek7/LeetCode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CHVivek7/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/CHVivek7/LeetCode/tree/master/2727-number-of-senior-citizens) |
