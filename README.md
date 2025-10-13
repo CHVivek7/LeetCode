@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CHVivek7/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/CHVivek7/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2476-check-distances-between-same-letters](https://github.com/CHVivek7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
+| [2486-most-frequent-even-element](https://github.com/CHVivek7/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/CHVivek7/LeetCode/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/CHVivek7/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2406-decode-the-message](https://github.com/CHVivek7/LeetCode/tree/master/2406-decode-the-message) |
 | [2476-check-distances-between-same-letters](https://github.com/CHVivek7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
+| [2486-most-frequent-even-element](https://github.com/CHVivek7/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/CHVivek7/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CHVivek7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -1017,6 +1019,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CHVivek7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2486-most-frequent-even-element](https://github.com/CHVivek7/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CHVivek7/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/CHVivek7/LeetCode/tree/master/3778-transform-array-by-parity) |
