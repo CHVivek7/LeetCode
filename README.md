@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CHVivek7/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/CHVivek7/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/CHVivek7/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2476-check-distances-between-same-letters](https://github.com/CHVivek7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/CHVivek7/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/CHVivek7/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/CHVivek7/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2406-decode-the-message](https://github.com/CHVivek7/LeetCode/tree/master/2406-decode-the-message) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/CHVivek7/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2470-removing-stars-from-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/CHVivek7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/CHVivek7/LeetCode/tree/master/2502-sort-the-people) |
@@ -661,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/CHVivek7/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/CHVivek7/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -787,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2210-find-target-indices-after-sorting-array](https://github.com/CHVivek7/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/CHVivek7/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CHVivek7/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/CHVivek7/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/CHVivek7/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2502-sort-the-people](https://github.com/CHVivek7/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/CHVivek7/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -846,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/CHVivek7/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3226-minimum-number-game](https://github.com/CHVivek7/LeetCode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
@@ -1005,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0164-maximum-gap](https://github.com/CHVivek7/LeetCode/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/CHVivek7/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Counting
 |  |
 | ------- |
@@ -1067,6 +1073,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/CHVivek7/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Queue
 |  |
 | ------- |
