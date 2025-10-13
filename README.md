@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/CHVivek7/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2778-frequency-tracker](https://github.com/CHVivek7/LeetCode/tree/master/2778-frequency-tracker) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/CHVivek7/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/CHVivek7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CHVivek7/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/CHVivek7/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/CHVivek7/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/CHVivek7/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/CHVivek7/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/CHVivek7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
