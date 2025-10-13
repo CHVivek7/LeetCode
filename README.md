@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CHVivek7/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CHVivek7/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CHVivek7/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CHVivek7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -752,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/CHVivek7/LeetCode/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/CHVivek7/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/CHVivek7/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CHVivek7/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CHVivek7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHVivek7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
