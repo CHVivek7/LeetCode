@@ -1,7 +1,10 @@
 class Solution {
     public int addedInteger(int[] nums1, int[] nums2) {
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
-        return nums2[nums2.length-1] - nums1[nums1.length-1];
+        int sum =0;
+        for (int i =0;i<nums1.length;i++){
+            sum += nums2[i]-nums1[i];
+        }
+        return sum/nums1.length;
+
     }
 }
