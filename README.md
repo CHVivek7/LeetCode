@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2386-min-max-game](https://github.com/CHVivek7/LeetCode/tree/master/2386-min-max-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CHVivek7/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/CHVivek7/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/CHVivek7/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2433-best-poker-hand](https://github.com/CHVivek7/LeetCode/tree/master/2433-best-poker-hand) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/CHVivek7/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -925,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/CHVivek7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/CHVivek7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/CHVivek7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/CHVivek7/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CHVivek7/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/CHVivek7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
