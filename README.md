@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/CHVivek7/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/CHVivek7/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/CHVivek7/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1694-make-sum-divisible-by-p](https://github.com/CHVivek7/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/CHVivek7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/CHVivek7/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CHVivek7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/CHVivek7/LeetCode/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/CHVivek7/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1694-make-sum-divisible-by-p](https://github.com/CHVivek7/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/CHVivek7/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -1120,6 +1122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/CHVivek7/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CHVivek7/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1694-make-sum-divisible-by-p](https://github.com/CHVivek7/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/CHVivek7/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CHVivek7/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/CHVivek7/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
