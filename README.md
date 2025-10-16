@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/CHVivek7/LeetCode/tree/master/1044-find-common-characters) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/CHVivek7/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1072-next-greater-node-in-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/CHVivek7/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/CHVivek7/LeetCode/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/CHVivek7/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/CHVivek7/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/CHVivek7/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/CHVivek7/LeetCode/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/CHVivek7/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
@@ -860,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/CHVivek7/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/CHVivek7/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CHVivek7/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHVivek7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -968,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/CHVivek7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/CHVivek7/LeetCode/tree/master/0456-132-pattern) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHVivek7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Simulation
