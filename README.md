@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHVivek7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/CHVivek7/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/CHVivek7/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/CHVivek7/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -877,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1072-next-greater-node-in-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/CHVivek7/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CHVivek7/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/CHVivek7/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHVivek7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/CHVivek7/LeetCode/tree/master/1582-design-browser-history) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CHVivek7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1056,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/CHVivek7/LeetCode/tree/master/1337-design-skiplist) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/CHVivek7/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/CHVivek7/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/CHVivek7/LeetCode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/CHVivek7/LeetCode/tree/master/1708-design-parking-system) |
