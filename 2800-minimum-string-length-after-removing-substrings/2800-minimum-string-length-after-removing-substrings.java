@@ -18,3 +18,17 @@ class Solution {
         return stack.size();
     }
 }
+
+// class Solution {
+//     public int minLength(String str) {
+//         while (str.contains("AB") || str.contains("CD")) {
+//             if (str.contains("AB")) {
+//                 str = str.replace("AB", "");
+//             }
+//             if (str.contains("CD")) {
+//                 str = str.replace("CD", "");
+//             }
+//         }
+//         return str.length();
+//     }
+// }
