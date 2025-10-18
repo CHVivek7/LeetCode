@@ -630,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3396-valid-word](https://github.com/CHVivek7/LeetCode/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/CHVivek7/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/CHVivek7/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3447-clear-digits](https://github.com/CHVivek7/LeetCode/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CHVivek7/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/CHVivek7/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -890,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CHVivek7/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3447-clear-digits](https://github.com/CHVivek7/LeetCode/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1032,6 +1034,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CHVivek7/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2645-pass-the-pillow](https://github.com/CHVivek7/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3226-minimum-number-game](https://github.com/CHVivek7/LeetCode/tree/master/3226-minimum-number-game) |
+| [3447-clear-digits](https://github.com/CHVivek7/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3651-transformed-array](https://github.com/CHVivek7/LeetCode/tree/master/3651-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
