@@ -603,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CHVivek7/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CHVivek7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/CHVivek7/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/CHVivek7/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/CHVivek7/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CHVivek7/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -759,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CHVivek7/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/CHVivek7/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/CHVivek7/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/CHVivek7/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/CHVivek7/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -892,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/CHVivek7/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CHVivek7/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CHVivek7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/CHVivek7/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/CHVivek7/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CHVivek7/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1199,6 +1202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/CHVivek7/LeetCode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/CHVivek7/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/CHVivek7/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2154-minimum-moves-to-convert-string](https://github.com/CHVivek7/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/CHVivek7/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/CHVivek7/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
