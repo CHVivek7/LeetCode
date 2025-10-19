@@ -564,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/CHVivek7/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CHVivek7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/CHVivek7/LeetCode/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/CHVivek7/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/CHVivek7/LeetCode/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/CHVivek7/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0981-delete-columns-to-make-sorted](https://github.com/CHVivek7/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -882,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/CHVivek7/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/CHVivek7/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/CHVivek7/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -1196,6 +1198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/CHVivek7/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/CHVivek7/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/CHVivek7/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/CHVivek7/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/CHVivek7/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1285-balance-a-binary-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CHVivek7/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
