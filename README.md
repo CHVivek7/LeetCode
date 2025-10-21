@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/CHVivek7/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/CHVivek7/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/CHVivek7/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/CHVivek7/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3226-minimum-number-game](https://github.com/CHVivek7/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/CHVivek7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CHVivek7/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2824-check-if-the-number-is-fascinating](https://github.com/CHVivek7/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/CHVivek7/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/CHVivek7/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/CHVivek7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/CHVivek7/LeetCode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/CHVivek7/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -993,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CHVivek7/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CHVivek7/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/CHVivek7/LeetCode/tree/master/2722-prime-in-diagonal) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/CHVivek7/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/CHVivek7/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CHVivek7/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Monotonic Stack
@@ -1046,6 +1049,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CHVivek7/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2645-pass-the-pillow](https://github.com/CHVivek7/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/CHVivek7/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/CHVivek7/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3226-minimum-number-game](https://github.com/CHVivek7/LeetCode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/CHVivek7/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CHVivek7/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
