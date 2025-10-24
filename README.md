@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0822-unique-morse-code-words](https://github.com/CHVivek7/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/CHVivek7/LeetCode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CHVivek7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0931-maximum-frequency-stack](https://github.com/CHVivek7/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0965-unique-email-addresses](https://github.com/CHVivek7/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/CHVivek7/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/CHVivek7/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -893,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/CHVivek7/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/CHVivek7/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0931-maximum-frequency-stack](https://github.com/CHVivek7/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0933-increasing-order-search-tree](https://github.com/CHVivek7/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CHVivek7/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/CHVivek7/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1091,6 +1093,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/CHVivek7/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
+| [0931-maximum-frequency-stack](https://github.com/CHVivek7/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1337-design-skiplist](https://github.com/CHVivek7/LeetCode/tree/master/1337-design-skiplist) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CHVivek7/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1235,6 +1238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/CHVivek7/LeetCode/tree/master/0456-132-pattern) |
+| [0931-maximum-frequency-stack](https://github.com/CHVivek7/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
 ## Counting Sort
 |  |
