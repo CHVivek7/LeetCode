@@ -1,28 +1,28 @@
-class Solution {
+public class Solution {
     public String decodeAtIndex(String s, int k) {
-        long len = 0;
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (Character.isDigit(c)) {
-                int d = c - '0';
-                len *= d;
+        long size = 0;
+        int n = s.length();
+        for (int i = 0; i < n; i++) {
+            if (Character.isDigit(s.charAt(i))) {
+                size *= s.charAt(i) - '0';
             } else {
-                len += 1;
+                size++;
             }
         }
-        for (int i = s.length() - 1; i >= 0; i--) {
-            char c = s.charAt(i);
-            if (Character.isDigit(c)) {
-                int d = c - '0';
-                len /= d;
-                k = (int) ((k - 1) % len + 1);
+        for (int i = n - 1; i >= 0; i--) {
+            k = (int)(k % size);
+
+            if (k == 0 && Character.isLetter(s.charAt(i))) {
+                return String.valueOf(s.charAt(i));
+            }
+
+            if (Character.isDigit(s.charAt(i))) {
+                size /= s.charAt(i) - '0';
             } else {
-                if (k == len) {
-                    return Character.toString(c);
-                }
-                len -= 1;
+                size--;
             }
         }
+
         return "";
     }
 }
