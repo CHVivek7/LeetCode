@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/CHVivek7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CHVivek7/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CHVivek7/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2169-simple-bank-system](https://github.com/CHVivek7/LeetCode/tree/master/2169-simple-bank-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/CHVivek7/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/CHVivek7/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1933-number-of-different-integers-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CHVivek7/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CHVivek7/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2169-simple-bank-system](https://github.com/CHVivek7/LeetCode/tree/master/2169-simple-bank-system) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/CHVivek7/LeetCode/tree/master/2226-rings-and-rods) |
@@ -1056,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/CHVivek7/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/CHVivek7/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CHVivek7/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/CHVivek7/LeetCode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/CHVivek7/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CHVivek7/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1108,6 +1111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/CHVivek7/LeetCode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/CHVivek7/LeetCode/tree/master/1708-design-parking-system) |
 | [1767-design-front-middle-back-queue](https://github.com/CHVivek7/LeetCode/tree/master/1767-design-front-middle-back-queue) |
+| [2169-simple-bank-system](https://github.com/CHVivek7/LeetCode/tree/master/2169-simple-bank-system) |
 | [2778-frequency-tracker](https://github.com/CHVivek7/LeetCode/tree/master/2778-frequency-tracker) |
 | [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
 ## Bucket Sort
