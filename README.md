@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/CHVivek7/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHVivek7/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-design-underground-system](https://github.com/CHVivek7/LeetCode/tree/master/1512-design-underground-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CHVivek7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/CHVivek7/LeetCode/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/CHVivek7/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -598,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1297-maximum-number-of-balloons](https://github.com/CHVivek7/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/CHVivek7/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CHVivek7/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1512-design-underground-system](https://github.com/CHVivek7/LeetCode/tree/master/1512-design-underground-system) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CHVivek7/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/CHVivek7/LeetCode/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1107,6 +1109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-design-skiplist](https://github.com/CHVivek7/LeetCode/tree/master/1337-design-skiplist) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CHVivek7/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1512-design-underground-system](https://github.com/CHVivek7/LeetCode/tree/master/1512-design-underground-system) |
 | [1572-subrectangle-queries](https://github.com/CHVivek7/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/CHVivek7/LeetCode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/CHVivek7/LeetCode/tree/master/1708-design-parking-system) |
