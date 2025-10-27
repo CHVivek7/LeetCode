@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/CHVivek7/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/CHVivek7/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4059-design-exam-scores-tracker](https://github.com/CHVivek7/LeetCode/tree/master/4059-design-exam-scores-tracker) |
 ## Hash Table
 |  |
 | ------- |
@@ -717,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/CHVivek7/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/CHVivek7/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4059-design-exam-scores-tracker](https://github.com/CHVivek7/LeetCode/tree/master/4059-design-exam-scores-tracker) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1120,6 +1122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/CHVivek7/LeetCode/tree/master/2169-simple-bank-system) |
 | [2778-frequency-tracker](https://github.com/CHVivek7/LeetCode/tree/master/2778-frequency-tracker) |
 | [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
+| [4059-design-exam-scores-tracker](https://github.com/CHVivek7/LeetCode/tree/master/4059-design-exam-scores-tracker) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1227,6 +1230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/CHVivek7/LeetCode/tree/master/3427-special-array-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CHVivek7/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/CHVivek7/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [4059-design-exam-scores-tracker](https://github.com/CHVivek7/LeetCode/tree/master/4059-design-exam-scores-tracker) |
 ## Greedy
 |  |
 | ------- |
