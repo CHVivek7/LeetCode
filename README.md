@@ -1114,6 +1114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0838-design-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/CHVivek7/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [0969-number-of-recent-calls](https://github.com/CHVivek7/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1337-design-skiplist](https://github.com/CHVivek7/LeetCode/tree/master/1337-design-skiplist) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CHVivek7/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1212,6 +1213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0341-flatten-nested-list-iterator](https://github.com/CHVivek7/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHVivek7/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/CHVivek7/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1767-design-front-middle-back-queue](https://github.com/CHVivek7/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHVivek7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3827-implement-router](https://github.com/CHVivek7/LeetCode/tree/master/3827-implement-router) |
@@ -1568,6 +1570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CHVivek7/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/CHVivek7/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/CHVivek7/LeetCode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/CHVivek7/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 ## Rolling Hash
