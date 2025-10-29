@@ -604,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/CHVivek7/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/CHVivek7/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/CHVivek7/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1211-iterator-for-combination](https://github.com/CHVivek7/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1260-day-of-the-year](https://github.com/CHVivek7/LeetCode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CHVivek7/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1274-number-of-days-between-two-dates](https://github.com/CHVivek7/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
@@ -1124,6 +1125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-design-circular-queue](https://github.com/CHVivek7/LeetCode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/CHVivek7/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0969-number-of-recent-calls](https://github.com/CHVivek7/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1211-iterator-for-combination](https://github.com/CHVivek7/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1337-design-skiplist](https://github.com/CHVivek7/LeetCode/tree/master/1337-design-skiplist) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CHVivek7/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1518,6 +1520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/CHVivek7/LeetCode/tree/master/0257-binary-tree-paths) |
+| [1211-iterator-for-combination](https://github.com/CHVivek7/LeetCode/tree/master/1211-iterator-for-combination) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CHVivek7/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
 |  |
@@ -1569,6 +1572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/CHVivek7/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/CHVivek7/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [1211-iterator-for-combination](https://github.com/CHVivek7/LeetCode/tree/master/1211-iterator-for-combination) |
 ## Trie
 |  |
 | ------- |
