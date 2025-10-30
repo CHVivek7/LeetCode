@@ -958,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1955-seat-reservation-manager](https://github.com/CHVivek7/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/CHVivek7/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/CHVivek7/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/CHVivek7/LeetCode/tree/master/3226-minimum-number-game) |
@@ -1140,6 +1141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/CHVivek7/LeetCode/tree/master/1708-design-parking-system) |
 | [1767-design-front-middle-back-queue](https://github.com/CHVivek7/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1775-design-an-ordered-stream](https://github.com/CHVivek7/LeetCode/tree/master/1775-design-an-ordered-stream) |
+| [1955-seat-reservation-manager](https://github.com/CHVivek7/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [2169-simple-bank-system](https://github.com/CHVivek7/LeetCode/tree/master/2169-simple-bank-system) |
 | [2285-design-bitset](https://github.com/CHVivek7/LeetCode/tree/master/2285-design-bitset) |
 | [2778-frequency-tracker](https://github.com/CHVivek7/LeetCode/tree/master/2778-frequency-tracker) |
