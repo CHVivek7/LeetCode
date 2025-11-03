@@ -498,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHVivek7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CHVivek7/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CHVivek7/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/CHVivek7/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/CHVivek7/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CHVivek7/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -1308,6 +1309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/CHVivek7/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2154-minimum-moves-to-convert-string](https://github.com/CHVivek7/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/CHVivek7/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/CHVivek7/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/CHVivek7/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CHVivek7/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1564,6 +1566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1211-iterator-for-combination](https://github.com/CHVivek7/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CHVivek7/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CHVivek7/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/CHVivek7/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/CHVivek7/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
 |  |
