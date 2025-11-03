@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/CHVivek7/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/CHVivek7/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4058-compute-alternating-sum](https://github.com/CHVivek7/LeetCode/tree/master/4058-compute-alternating-sum) |
 | [4059-design-exam-scores-tracker](https://github.com/CHVivek7/LeetCode/tree/master/4059-design-exam-scores-tracker) |
 ## Hash Table
 |  |
@@ -1126,6 +1127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3811-reverse-degree-of-a-string](https://github.com/CHVivek7/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/CHVivek7/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/CHVivek7/LeetCode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4058-compute-alternating-sum](https://github.com/CHVivek7/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Memoization
 |  |
 | ------- |
