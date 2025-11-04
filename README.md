@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1950-sign-of-the-product-of-an-array](https://github.com/CHVivek7/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHVivek7/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CHVivek7/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/CHVivek7/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CHVivek7/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/CHVivek7/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/CHVivek7/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/CHVivek7/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/CHVivek7/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CHVivek7/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/CHVivek7/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/CHVivek7/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/CHVivek7/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/CHVivek7/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -1313,6 +1315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/CHVivek7/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CHVivek7/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CHVivek7/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2032-largest-odd-number-in-string](https://github.com/CHVivek7/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/CHVivek7/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2154-minimum-moves-to-convert-string](https://github.com/CHVivek7/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/CHVivek7/LeetCode/tree/master/2279-maximum-split-of-positive-even-integers) |
