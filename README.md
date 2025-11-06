@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CHVivek7/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CHVivek7/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/CHVivek7/LeetCode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/CHVivek7/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/CHVivek7/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/CHVivek7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/CHVivek7/LeetCode/tree/master/0048-rotate-image) |
@@ -1577,6 +1578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/CHVivek7/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/CHVivek7/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/CHVivek7/LeetCode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/CHVivek7/LeetCode/tree/master/0257-binary-tree-paths) |
