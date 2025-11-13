@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2285-design-bitset](https://github.com/CHVivek7/LeetCode/tree/master/2285-design-bitset) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CHVivek7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/CHVivek7/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/CHVivek7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/CHVivek7/LeetCode/tree/master/2406-decode-the-message) |
 | [2433-best-poker-hand](https://github.com/CHVivek7/LeetCode/tree/master/2433-best-poker-hand) |
 | [2476-check-distances-between-same-letters](https://github.com/CHVivek7/LeetCode/tree/master/2476-check-distances-between-same-letters) |
@@ -689,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/CHVivek7/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/CHVivek7/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/CHVivek7/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/CHVivek7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/CHVivek7/LeetCode/tree/master/2406-decode-the-message) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/CHVivek7/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2470-removing-stars-from-a-string](https://github.com/CHVivek7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -1233,6 +1235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/CHVivek7/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/CHVivek7/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CHVivek7/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/CHVivek7/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2433-best-poker-hand](https://github.com/CHVivek7/LeetCode/tree/master/2433-best-poker-hand) |
 | [2486-most-frequent-even-element](https://github.com/CHVivek7/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHVivek7/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
