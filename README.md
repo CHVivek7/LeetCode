@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CHVivek7/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CHVivek7/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/CHVivek7/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/CHVivek7/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/CHVivek7/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1459-apply-discount-every-n-orders](https://github.com/CHVivek7/LeetCode/tree/master/1459-apply-discount-every-n-orders) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -983,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1072-next-greater-node-in-linked-list](https://github.com/CHVivek7/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/CHVivek7/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CHVivek7/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/CHVivek7/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CHVivek7/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/CHVivek7/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHVivek7/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1130,6 +1132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-available-captures-for-rook](https://github.com/CHVivek7/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHVivek7/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/CHVivek7/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/CHVivek7/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1505-create-target-array-in-the-given-order](https://github.com/CHVivek7/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/CHVivek7/LeetCode/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1552-build-an-array-with-stack-operations](https://github.com/CHVivek7/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
