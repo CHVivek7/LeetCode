@@ -14,7 +14,6 @@ class Solution {
                 missing = i;
             }
         }
-        
         return new int[] {dup, missing};
     }
 }
