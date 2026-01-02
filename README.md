@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/CHVivek7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/CHVivek7/LeetCode/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/CHVivek7/LeetCode/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/CHVivek7/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/CHVivek7/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0981-delete-columns-to-make-sorted](https://github.com/CHVivek7/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/CHVivek7/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/CHVivek7/LeetCode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CHVivek7/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0931-maximum-frequency-stack](https://github.com/CHVivek7/LeetCode/tree/master/0931-maximum-frequency-stack) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/CHVivek7/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/CHVivek7/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/CHVivek7/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/CHVivek7/LeetCode/tree/master/1006-vowel-spellchecker) |
